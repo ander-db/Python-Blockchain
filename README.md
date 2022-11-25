@@ -21,7 +21,7 @@ Check if the chain is valid:
 curl http://127.0.0.1:8080/valid
 ```
 
-## Whay I Learned
+## What I Learned
 - How blockchains works.
 - How proof of work works.
 - How to verify the validity of a Blockchain chain.
